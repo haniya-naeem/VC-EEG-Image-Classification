@@ -1,0 +1,9 @@
+# Ignore data files and instructions
+CSV/
+Features/
+Project_03_Tasks.docx
+
+# Ignore Python environment and temporary files
+.venv/
+__pycache__/
+.ipynb_checkpoints/
